@@ -20,10 +20,13 @@ Create file team members profile in html format
 ## 2. Installation
 
 git clone https://github.com/johnnychengsf/Team_Profile_Generator.git
+cd Team_Profile_Generator
+npm i
 
 <a name="usage"></a>
 ## 3. Usage
 
+https://www.youtube.com/watch?v=73_swO7fz9E
 npm start
 
 <a name="license"></a>
@@ -89,6 +92,7 @@ None
 
 <a name="tests"></a>
 ## 7. Tests
+https://www.youtube.com/watch?v=TWG7NYVGUCM
 
 npm test employee
 npm test manager
